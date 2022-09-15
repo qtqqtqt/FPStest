@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Enemy/Scripts/EnemyHealth.cs">
+    <Files>
+      <File FileName="Assets/Enemy/Scripts/EnemyHealth.cs" Line="38" Column="41" />
+      <File FileName="Assets/Enemy/Scripts/EnemyAI.cs" Line="31" Column="42" />
+      <File FileName="Assets/Enemy/Scripts/EnemyAttack.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Runner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Asset Packs" expanded="True">
+                <Node name="OtherAssets" expanded="True">
+                  <Node name="StarterAssets" expanded="True">
+                    <Node name="FirstPersonController" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="InputSystem" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Enemy" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="EnemyHealth.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pickups" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Player" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Weapons" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="daad057f-8a9a-4e8e-91c4-9bb59f0fdbe0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
